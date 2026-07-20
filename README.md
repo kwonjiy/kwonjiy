@@ -1,19 +1,13 @@
 <!-- ✨ Profile README — kwonjiy/kwonjiy/README.md -->
 
-<div align="center">
+<h1 align="center">👋 Hi, I'm Jiyeon Kwon (권지연)</h1>
+<h3 align="center">Web &amp; App Developer · 웹/앱 개발자</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jiyeon%20Kwon%20%7C%20권지연&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20App%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
-
-<a href="https://github.com/kwonjiy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=620&lines=Web+%26+App+Developer;.NET+·+MAUI+·+PHP+background;Now%3A+Next.js+Blog+%26+Tauri+Desktop+App;Always+exploring+new+tech+%F0%9F%8C%B1" alt="typing" />
-</a>
-
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwonjiy&label=Profile%20views&color=764ba2&style=flat" alt="views" />
   <a href="https://kwonjiy.github.io"><img src="https://img.shields.io/badge/Blog-KOMJI-764ba2?style=flat&logo=googlechrome&logoColor=white" alt="blog" /></a>
+  <img src="https://img.shields.io/github/followers/kwonjiy?label=Followers&style=flat&logo=github&color=667eea" alt="followers" />
 </p>
-
-</div>
 
 ---
 
@@ -84,16 +78,25 @@ Welcome to my GitHub profile! Here's what I do and what I'm passionate about.<br
 
 ---
 
-### 📈 GitHub Stats / 깃허브 통계
+### 📈 Activity / 커밋 · 진행 상태
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/github/last-commit/kwonjiy/kwonjiy.github.io?style=for-the-badge&label=Blog%20last%20commit&color=764ba2" />
+  <img src="https://img.shields.io/github/commit-activity/y/kwonjiy/kwonjiy.github.io?style=for-the-badge&label=Blog%20commits%2Fyear&color=764ba2" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/last-commit/kwonjiy/MTD-releases?style=for-the-badge&label=MTD%20last%20release&color=667eea" />
+  <img src="https://img.shields.io/github/v/release/kwonjiy/MTD-releases?style=for-the-badge&label=MTD%20version&color=667eea" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kwonjiy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonjiy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs" />
+<!-- 🐍 커밋 잔디를 먹는 뱀 애니메이션 (아래 GitHub Action 설정 후 표시됨) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwonjiy/kwonjiy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwonjiy/kwonjiy/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kwonjiy/kwonjiy/output/github-snake.svg" width="100%" />
+</picture>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kwonjiy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophy" />
-
-</div>
+> 아래 초록 잔디(Contribution graph)는 프로필에서 바로 보이며, **회사 비공개 저장소 커밋까지 포함**됩니다.
 
 ---
 
@@ -112,9 +115,3 @@ Welcome to my GitHub profile! Here's what I do and what I'm passionate about.<br
 
 > I am committed to continuously learning and challenging myself to create meaningful solutions that make a difference. 😊<br/>
 > 꾸준히 학습하고 스스로에게 도전하며, 세상에 긍정적인 영향을 줄 수 있는 의미 있는 솔루션을 만드는 개발자가 되겠습니다. 😊
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" alt="footer" />
-
-</div>
